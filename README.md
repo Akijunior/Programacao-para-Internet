@@ -28,6 +28,8 @@
 - Portifólio: links para outros repositórios e/ou outros projetos pessoais:
 
     https://github.com/Akijunior/Connectuor
+    https://github.com/leonfers/JacaEventos
+    https://github.com/marcospbsousa/jobs-app
 
 - Expectativa quanto a disciplina:
 
