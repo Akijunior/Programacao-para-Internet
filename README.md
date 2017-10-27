@@ -12,6 +12,12 @@
     Conhecimento acerca de Android;
     Sei ser criativo, ainda que as vezes surreal.
 
+    Conhecimento intermediário em Java e Python;
+    Conhecimento básico em JavaScript, Angular, Ionic, Django, Html e CSS;
+    Conhecimento intermediário acerca de Documento de Requisitos e UML;
+    Conhecimento intermediário em Photoshop;
+    Conhecimento básico em After Effects e Illustrator.
+
 - Seus Interesses acadêmicos e profissionais:
 
     Dominar as ferramentas e API's da google e outras relevantes para aplicações mobile;
